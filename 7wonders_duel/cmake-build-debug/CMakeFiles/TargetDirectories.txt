@@ -1,0 +1,7 @@
+C:/Users/34145/c++学习资料/七大奇迹对决/manuswindows版/7wonders_duel/cmake-build-debug/CMakeFiles/7wonders_duel.dir
+C:/Users/34145/c++学习资料/七大奇迹对决/manuswindows版/7wonders_duel/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/34145/c++学习资料/七大奇迹对决/manuswindows版/7wonders_duel/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/34145/c++学习资料/七大奇迹对决/manuswindows版/7wonders_duel/cmake-build-debug/CMakeFiles/list_install_components.dir
+C:/Users/34145/c++学习资料/七大奇迹对决/manuswindows版/7wonders_duel/cmake-build-debug/CMakeFiles/install.dir
+C:/Users/34145/c++学习资料/七大奇迹对决/manuswindows版/7wonders_duel/cmake-build-debug/CMakeFiles/install/local.dir
+C:/Users/34145/c++学习资料/七大奇迹对决/manuswindows版/7wonders_duel/cmake-build-debug/CMakeFiles/install/strip.dir
